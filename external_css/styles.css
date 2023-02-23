@@ -1,0 +1,19 @@
+img { 
+   border: 5px dotted blue;
+   margin: 15px;
+ }
+p {
+   font-family: Arial;
+ }
+h1 {
+   color: green;
+   font-family: Palantino;
+ }
+h2 {
+   color: pink;
+   font-family: Courier;
+ }
+p.fancy {
+   border: 1px solid orange;
+   background-color:lightyellow;
+ }
